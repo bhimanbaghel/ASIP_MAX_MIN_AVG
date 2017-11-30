@@ -1,0 +1,1 @@
+# ASIP_MAX_MIN_AVG
